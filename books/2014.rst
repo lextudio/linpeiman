@@ -1,9 +1,7 @@
 《Wireshark 网络分析就这么简单》
 ================================
 
-基本信息
---------
--- image:: ./_static/book2014.jpg
+.. image:: /./_static/book2014.jpg
     :width: 350
 
 内容提要

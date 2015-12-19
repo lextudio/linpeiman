@@ -1,9 +1,7 @@
 《實戰Wireshark：網路分析其實很簡單》
 =====================================
 
-基本信息
---------
--- image:: /_static/book2015.jpg
+.. image:: /./_static/book2015.jpg
     :width: 350
 
 購買渠道
@@ -16,4 +14,4 @@
 
 * `碁峰購物網 <http://shopping.gotop.com.tw/showroom/view.php?C=30127437>`_
 * `博客來 <http://www.books.com.tw/products/0010668982>`_
-＊ `天瓏 <http://www.tenlong.com.tw/items/9789863475781>`_
+* `天瓏 <http://www.tenlong.com.tw/items/9789863475781>`_
