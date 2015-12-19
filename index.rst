@@ -22,12 +22,12 @@ Who is 林沛满？
 .. image:: _static/book2014.jpg
     :width: 350
 
-2015年林先生的作品由碁峰资讯股份有限公司在台湾出版。
+2015年该作品由碁峰资讯股份有限公司在台湾以繁体中文出版。
 
 .. image:: _static/book2015.jpg
     :width: 350
 
-2016年新作《Wirshark 网络分析就这么简单（第二卷）》（书名未知，但完全是全新内容，而非第一卷再版）即将出版发行。
+2015年年底新作《Wirshark 网络分析的艺术》即将出版发行。全新内容，敬请期待。
 
 What is 林沛满书友会？
 ----------------------
@@ -44,11 +44,11 @@ What is 林沛满书友会？
 
 相关信息
 --------
-林先生联系方式：请移步微博关注@林沛满 以便与林先生直接联系
+林先生联系方式：请移步微博关注 `@林沛满 <http://weibo.com/linpeiman>`_ 以便与林先生直接联系
 
 书友会联系方式：请创建新的 `GitHub issue <https://github.com/lextudio/linpeiman/issues>`_ 以便技术人员跟进
 
-出版社联系方式：请联系人民邮电出版社
+出版社联系方式：请联系 `人民邮电出版社 <http://www.ptpress.com.cn>`_ 或`碁峰资讯股份有限公司 <http://www.gotop.com.tw/>`_
 
 * :ref:`genindex`
 * :ref:`modindex`
