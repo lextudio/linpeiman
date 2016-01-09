@@ -66,7 +66,7 @@ release = '1.0'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = "zh_CN"
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
@@ -126,6 +126,17 @@ if not on_rtd:
     import sphinx_rtd_theme
     html_theme = 'sphinx_rtd_theme'
     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+else:
+    extensions.append('yasfb')
+    feed_num_items = 15
+    feed_skip_regex = '(.)*index'
+    feed_base_url = 'http://www.linpeiman.com/en/latest'
+    feed_description = 'Peiman Lin Archive'
+    feed_author = 'Peiman Lin'
+
+#def setup(app):
+#    app.add_stylesheet('custom.css?v=1')
+#    app.add_javascript('helpfulness.js')
 
 #html_theme = 'default'
 
@@ -208,7 +219,7 @@ html_last_updated_fmt = '%b %d, %Y'
 # Sphinx supports the following languages:
 #   'da', 'de', 'en', 'es', 'fi', 'fr', 'hu', 'it', 'ja'
 #   'nl', 'no', 'pt', 'ro', 'ru', 'sv', 'tr'
-#html_search_language = 'en'
+html_search_language = 'zh'
 
 # A dictionary with options for the search language support, empty by default.
 # Now only 'ja' uses this config value
@@ -377,9 +388,3 @@ epub_exclude_files = ['search.html']
 #    'mvc': ('http://docs.asp.net/projects/mvc/en/latest', 'mvc.inv'),
 #    'dotnet': ('http://dotnet.readthedocs.org/en/latest', 'dotnet.inv')
 #}
-
-feed_num_items = 15
-feed_skip_regex = '(.)*index'
-feed_base_url = 'http://www.linpeiman.com/en/latest'
-feed_description = 'Peiman Lin Archive'
-feed_author = 'Peiman Lin'
