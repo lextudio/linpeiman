@@ -126,13 +126,6 @@ if not on_rtd:
     import sphinx_rtd_theme
     html_theme = 'sphinx_rtd_theme'
     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-else:
-    extensions.append('yasfb')
-    feed_num_items = 15
-    feed_skip_regex = '(.)*index'
-    feed_base_url = 'http://www.linpeiman.com/en/latest'
-    feed_description = 'Peiman Lin Archive'
-    feed_author = 'Peiman Lin'
 
 #def setup(app):
 #    app.add_stylesheet('custom.css?v=1')

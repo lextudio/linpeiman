@@ -16,7 +16,7 @@ Wireshark 可能是世界上最好的开源网络包分析器，能在多种平�
 
 样章阅读
 --------
-样章文档下载由`异步社区 <http://www.epubit.com.cn/book/details/1690>`_ 提供。
+样章文档下载由 `异步社区 <http://www.epubit.com.cn/book/details/1690>`_ 提供。
 
 购买渠道
 --------

@@ -14,7 +14,7 @@ Wireshark 是当前最流行的网络包分析工具。它上手简单，无需�
 
 样章阅读
 --------
-样章文档下载由`异步社区 <http://www.epubit.com.cn/book/details/4260>`_ 提供。
+样章文档下载由 `异步社区 <http://www.epubit.com.cn/book/details/4260>`_ 提供。
 
 购买渠道
 --------
