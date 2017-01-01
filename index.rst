@@ -21,7 +21,7 @@ Who is 林沛满？
 .. image:: _static/book2014.jpg
     :width: 350
 
-2015年该作品由碁峰资讯股份有限公司在台湾以繁体中文出版为 :doc:`/books/2015` 。
+2015年该作品由碁峰资讯股份有限公司在台湾以繁体中文出版，书名为 :doc:`/books/2015` 。
 
 .. image:: _static/book2015.jpg
     :width: 350
@@ -29,6 +29,11 @@ Who is 林沛满？
 2016年新作 :doc:`/books/2016` 已出版发行，现正登陆各大图书销售平台。全新内容，重新出发，欢迎购买收藏。
 
 .. image:: _static/book2016.jpg
+    :width: 350
+
+2016年该作品由碁峰资讯股份有限公司在台湾以繁体中文出版，书名为 :doc:`/books/20161` 。
+
+.. image:: _static/book20161.jpg
     :width: 350
 
 What is 林沛满书友会？
