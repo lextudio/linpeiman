@@ -1,0 +1,23 @@
+{% extends "!layout.html" %}
+{% block menu %}
+<div data-type="ad" data-publisher="lqm.lexli.site" data-format="300x250" data-zone="ros" ></div>
+    {{ super() }}
+{% endblock %}
+
+{% block footer %}
+    {{ super() }}
+
+<style>
+    .wy-menu-vertical a:hover {
+        background-color: #2862a2;
+    }
+    /* Sidebar header (and topbar for mobile) */
+    .wy-side-nav-search, .wy-nav-top {
+        background: #2862a2;
+    }
+    /* Sidebar */
+    .wy-nav-side {
+        background: #4a4b4c;
+    }
+</style>
+{% endblock %}
